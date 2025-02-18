@@ -3,7 +3,9 @@
 _Welcome to my GitHub profile! I'm a developer with a passion for creating innovative solutions. Check out my skill set and some of the projects I've been working on._
 
 ## Skills & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,js,html,ruby,cpp,latex,md&theme=light)](https://skillicons.dev)
+
 [![My Tools](https://skillicons.dev/icons?i=pycharm,github,clion,webstorm,ps,npm,nodejs,windows&theme=light)](https://skillicons.dev)
 
 ## Personal Information
