@@ -16,7 +16,7 @@ _Welcome to my GitHub profile! I'm a developer with a passion for creating innov
 ## Projects
 **Name:** PyPyNum  
 **Links:** [PyPI](https://pypi.org/project/PyPyNum/) | [Gitee](https://www.gitee.com/PythonSJL/PyPyNum) | [GitHub](https://github.com/PythonSJL/PyPyNum)  
-**Description:** PyPyNum is a multifunctional Python mathematics library. It encompasses modules for mathematics, data analysis, array manipulation, cryptography, physics, random number generation, data preparation, statistics, equation solving, image processing, interpolation, matrix computations, among others. PyPyNum is designed for mathematical computations, data analysis, and machine learning, offering efficient and versatile tools.
+**Description:** PyPyNum is a versatile Python math lib. It features modules for math, data analysis, arrays, crypto, physics, RNG, data proc, stats, eq solving, image proc, interp, matrix calc, and high-prec math. Designed for scientific computing, data science, and ML, it offers efficient, general-purpose tools.
 
 ## Contact
 **Email:** 2261748025@qq.com
